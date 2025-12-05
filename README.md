@@ -57,7 +57,6 @@ To spawn a horse, use the command:
 |-----|--------|
 | `ALT` (Walk Key) | Move forward |
 | `SPACE` (Sprint) or `SHIFT` (Jump) | Turn right |
-| `ALT` + `SPACE`/`SHIFT` | Turn left |
 
 ### Code Example
 
@@ -103,7 +102,6 @@ CMD:horse(playerid, params[])
 |---------|----------|
 | `ALT` (Клавиша ходьбы) | Движение вперёд |
 | `SPACE` (Спринт) или `SHIFT` (Прыжок) | Поворот вправо |
-| `ALT` + `SPACE`/`SHIFT` | Поворот влево |
 
 ### Пример кода
 
